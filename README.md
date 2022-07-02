@@ -1,6 +1,6 @@
 # Space-Travel
 
-## This project was done with the help of **Kevin Powell** and front end mentors Scrimba course.
+## This project was done with the help of **Kevin Powell** and front end mentors.
 
 1. This project was created with the intention of mobile first approach.
 2. Fully responsive on any type of screen including extremrly large screens.
